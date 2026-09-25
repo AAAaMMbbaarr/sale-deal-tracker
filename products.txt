@@ -1,0 +1,15 @@
+# ------------------------------------------------------------
+# Your watch list. One product per line, 4 parts split by  |
+#
+#   name  |  link  |  target price  |  bank offer (optional)
+#
+# Bank offer examples:
+#   10% HDFC max 1000     -> 10% off, but never more than ₹1,000
+#   5% ICICI              -> 5% off, no upper limit
+#   flat 1500 SBI         -> ₹1,500 off
+#   (leave empty if there's no offer)
+#
+# Lines starting with # are notes and get ignored.
+# ------------------------------------------------------------
+
+MSI motherboard | https://www.amazon.in/dp/B0CC9G49JQ | 5000 | flat 275 ICICI

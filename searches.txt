@@ -1,0 +1,18 @@
+# ------------------------------------------------------------
+# Searches for the deal scanner. One per line, 3 parts split by  |
+#
+#   name  |  Amazon search link  |  min discount %
+#
+# How to get the link: search on amazon.in, apply the filters you
+# want (price range, brand, rating...), then copy the link from the
+# address bar and paste it here.
+#
+# min discount %: alert when a product is at least this much below
+# its MRP. It also alerts on a real price drop of a quarter of this
+# (e.g. 40 -> alerts on a 10% drop since the last scan).
+# Leave it empty to use 40.
+#
+# Lines starting with # are ignored.
+# ------------------------------------------------------------
+
+Phones under 20k | https://www.amazon.in/s?k=smartphone&rh=p_36%3A-2000000 | 40

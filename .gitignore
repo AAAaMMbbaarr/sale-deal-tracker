@@ -1,0 +1,11 @@
+# Private: holds your Telegram bot token. Never commit this.
+telegram_config.json
+
+# Personal data the tools create while running
+scanner_history.json
+debug_page.html
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
